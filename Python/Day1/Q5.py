@@ -3,4 +3,4 @@
         x = 1 0 + 3 * 2 ** 2
 '''
 x = 10 + 3 * 2 ** 2
-print("The result of the expression is:", x)
+print("The result of the  expression is:", x)

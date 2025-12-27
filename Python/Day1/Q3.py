@@ -6,4 +6,4 @@ int1 = int(input("Enter the first integer: "))
 int2 = int(input("Enter the second integer: "))
 flt = float(input("Enter a float: "))
 average = (float(int1) + float(int2) + flt) / 3
-print("The average is:", average)
+print("The average  is:", average)

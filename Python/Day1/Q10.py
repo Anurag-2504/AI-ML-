@@ -6,4 +6,4 @@ decimal_number = float(input("Enter a decimal number: "))
 interger_part = int(decimal_number)
 fractional_part = decimal_number - interger_part
 print("Integer part:", interger_part)
-print("Fractional part:", fractional_part)
+print("Fractional  part:", fractional_part)

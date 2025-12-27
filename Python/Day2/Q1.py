@@ -10,4 +10,4 @@ if salary<30000:
 elif salary>30000 and salary<70000:
     print("Your tax is : ",salary*0.15)
 else:
-    print("Your tax is : ",salary*0.25)
+    print("Your tax  is : ",salary*0.25)
