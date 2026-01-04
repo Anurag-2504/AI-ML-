@@ -1,0 +1,12 @@
+Data_Jupyter/
+*.csv
+*.zip
+*.h5
+*.pt
+*.pkl
+*.npy
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.env
+
